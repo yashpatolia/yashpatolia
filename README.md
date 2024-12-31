@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Yash Patolia
-I am a 2nd year software engineering student at McMaster University currently looking for a 2024 summer internship.\
+I am a 3rd year software engineering student at McMaster University currently looking for a 2025 summer internship.\
 I enjoy creating small projects and learning new coding languages!
 
 ## Tech Stack
