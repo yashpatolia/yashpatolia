@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Yash Patolia
 
 I'm a 4th year Software Engineering student at McMaster University.\
-I enjoy building full-stack projects, exploring new frameworks, and working on things end-to-end — from databases to UI.
+I enjoy building full-stack projects, exploring new frameworks, and working on things end-to-end.
 
 ## Tech Stack
 
